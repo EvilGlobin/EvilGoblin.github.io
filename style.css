@@ -232,9 +232,6 @@ hr {
 }
 
 @media (max-width: 700px) {
-    body {
-        background: red;
-    }
 
     .menu-btn {
         display: block;
@@ -282,9 +279,6 @@ hr {
 }
 
 @media (max-width: 500px) {
-    body {
-        background: blue;
-    }
 
     .news-cards {
         grid-template-columns: 1fr;
